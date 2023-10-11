@@ -4,7 +4,7 @@ import NoteContext from "./NoteContext";
 const NoteState = (props)=>{
     const notesInitial = [
         {
-          "_id": "652565dc787a4b608c71562f",
+          "_id": "6d52565dc787a4b608c7d1562fd",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "My title",
           "description": "complete backend today",
@@ -13,7 +13,7 @@ const NoteState = (props)=>{
           "__v": 0
         },
         {
-          "_id": "652565dc787a4b608c71562f",
+          "_id": "652aa565dc787a4b608c71562fa",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "My title",
           "description": "complete backend today",
@@ -22,7 +22,7 @@ const NoteState = (props)=>{
           "__v": 0
         },
         {
-          "_id": "652565dc787a4b608c71562f",
+          "_id": "652d5s65dc787a4dab608c715f62f",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "My title",
           "description": "complete backend today",
@@ -31,7 +31,7 @@ const NoteState = (props)=>{
           "__v": 0
         },
         {
-          "_id": "652565dc787a4b608c71562f",
+          "_id": "65a2565dc7s87a4bd608c71562f",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "My title",
           "description": "complete backend today",
@@ -40,7 +40,7 @@ const NoteState = (props)=>{
           "__v": 0
         },
         {
-          "_id": "652565dc787a4b608c71562f",
+          "_id": "652565dc7s87a4b6g08c7d1562f",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "My title",
           "description": "complete backend today",
@@ -49,7 +49,7 @@ const NoteState = (props)=>{
           "__v": 0
         },
         {
-          "_id": "652565dc787a4b608c71562f",
+          "_id": "6525s65dc7d87a4b608dc71562f",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "My title",
           "description": "complete backend today",
@@ -58,7 +58,7 @@ const NoteState = (props)=>{
           "__v": 0
         },
         {
-          "_id": "6526389f7a248bfbc48f24fd",
+          "_id": "652s6389f7a248fdbfbc48f24fd",
           "user": "6524e4b14e53a1680f4352c8",
           "title": "Daily Goal",
           "description": "complete till video 67 today",
