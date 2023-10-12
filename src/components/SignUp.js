@@ -27,8 +27,8 @@ const SignUp = (props) => {
           if(json.success){
             // Save the auth token and redirect
             localStorage.setItem('token', json.authtoken)
-            history('/')
             props.showAlert('Account Created Successfully', 'success')
+            history('/')
           }
           else{
             props.showAlert('Invalid Details', 'danger')
@@ -41,6 +41,7 @@ const SignUp = (props) => {
 
   return (
     <div className='container my-3'>
+      <h1>Create an Account to use NoteVista</h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
             <label htmlFor="name" className="form-label">Name</label>
